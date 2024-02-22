@@ -1,0 +1,14 @@
+#forms{
+    border:solid 1px;
+    padding: 20px;
+   border-radius: 2px; 
+   margin:0 auto;
+   text-align: center;
+     
+}
+button{
+    padding:10px;
+    background-color: black;
+    border-radius:5px;
+    border:1px solid;
+}
